@@ -1,7 +1,7 @@
 # Submission
 
-**Name:** Nadja Toroponina
-**Email:** not.provided@example.com
+**Name:** Nadja Tiihonen
+**Email:** nadja.tiihonen@gmail.com
 
 ## Approach
 
